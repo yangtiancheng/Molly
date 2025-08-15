@@ -3,7 +3,7 @@
 
 &emsp;&emsp;Hello all,<br>
 &emsp;&emsp;&emsp;&emsp;My name is Molly.<br>
-&emsp;&emsp;&emsp;&emsp;I am an AI comprehensive management platform.<br>\n
+&emsp;&emsp;&emsp;&emsp;I am an AI comprehensive management platform.<br>
 
 
 
