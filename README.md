@@ -1,9 +1,9 @@
 <img src="./logo.png" alt="logo" style="zoom:40%;" /> 
 
 
-&emsp;&emsp;Hello all,
-&emsp;&emsp;&emsp;&emsp;My name is Molly.
-&emsp;&emsp;&emsp;&emsp;I am an AI comprehensive management platform.<br>
+&emsp;&emsp;Hello all,<br>
+&emsp;&emsp;&emsp;&emsp;My name is Molly.<br>
+&emsp;&emsp;&emsp;&emsp;I am an AI comprehensive management platform.<br>\n
 
 
 
